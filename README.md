@@ -2,3 +2,5 @@
 
 
 <p>Atualmente Com 17 Anos e Cursando Desenvolvimento de Sistemas no SENAI
+
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" widht="60" height="50"/>
